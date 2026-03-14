@@ -29,8 +29,8 @@ To write a Java program that demonstrates the use of variables, data types, oper
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: HARIHARAN J
-RegisterNumber: 212223240047
+Developed by: AVINASH T
+RegisterNumber: 212223230026
 */
 ```
 
